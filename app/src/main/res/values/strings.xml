@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Bet Genius</string>
+    <string name="action_settings">Settings</string>
+    <string name="_23_june">23 JUNE</string>
+    <string name="_1_minute_ago">1 minute ago</string>
+    <string name="post_time">1 minute ago</string>
+    <string name="post">TODAY\'S TIPS. STAKE HIGH</string>
+    <string name="ago">ago</string>
+    <string name="share">Share</string>
+    <string name="rate_us_please">Rate Us Please</string>
+    <string name="feedback">Email admin</string>
+    <string name="about">About App</string>
+    <string name="your_email_address">Your email address</string>
+    <string name="submit_feedback">Submit Feedback</string>
+
+    <string name="photo">Photo</string>
+    <string name="news_title">Alexander Lacazette signs for Arsenal</string>
+    <string name="how_can_we_help_you">How can we help you?</string>
+    <string name="join_vip">Join VIP</string>
+
+
+</resources>
